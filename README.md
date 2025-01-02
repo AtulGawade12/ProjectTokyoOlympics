@@ -1,2 +1,2 @@
 # ProjectTokyoOlympic
-Tokyo-Olympics-Data-Engineering-Project
+Tokyo-Olympic-Data-Engineering-Project
