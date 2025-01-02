@@ -1,0 +1,27 @@
+[
+{
+  "p1_rel_url": "AtulGawade12/ProjectTokyoOlympics/main/Data/Athletes.csv",
+  "p2_folder": "Athletes" ,
+  "p3_file": "Athletes.csv"
+},
+{
+  "p1_rel_url": "AtulGawade12/ProjectTokyoOlympics/main/Data/Coaches.csv",
+  "p2_folder": "Coaches" ,
+  "p3_file": "Coaches.csv"
+},
+{
+  "p1_rel_url": "AtulGawade12/ProjectTokyoOlympics/main/Data/EntriesGender.csv",
+  "p2_folder": "Gender" ,
+  "p3_file": "Gender.csv"
+},
+{
+  "p1_rel_url": "AtulGawade12/ProjectTokyoOlympics/main/Data/Medals.csv",
+  "p2_folder": "Medals" ,
+  "p3_file": "Medals.csv"
+},
+{
+  "p1_rel_url": "AtulGawade12/ProjectTokyoOlympics/main/Data/Teams.csv",
+  "p2_folder": "Teams" ,
+  "p3_file": "Teams.csv"
+}
+]
